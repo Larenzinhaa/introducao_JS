@@ -6,7 +6,7 @@
 -Principal Linguagem: Client-Side
 -Server-Side: node.js
 
-## Extensões do VsCode
+Extensões do VsCode
 *Eslint
 *Ppettier
 *CodeRunner
